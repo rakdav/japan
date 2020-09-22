@@ -47,14 +47,30 @@
       <option name="presentableId" value="Default" />
       <updated>1599657495067</updated>
       <workItem from="1599657496175" duration="13211000" />
-      <workItem from="1600767507410" duration="5848000" />
+      <workItem from="1600767507410" duration="7168000" />
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1600773843210</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600773843210</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="585" y="87" key="CommitChangelistDialog2" timestamp="1600773842194">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1600773842194" />
     <state x="838" y="415" key="Github.ShareDialog" timestamp="1600768301169">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -63,6 +79,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="816" y="223" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600768310498" />
+    <state x="552" y="251" key="Vcs.Push.Dialog.v2" timestamp="1600773845397">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="251" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600773845397" />
     <state x="623" y="225" key="search.everywhere.popup" timestamp="1599742459870">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

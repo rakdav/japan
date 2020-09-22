@@ -1,23 +1,28 @@
-div{
-    margin: 10px;
-    border: 1px solid black;
-    font-size: 20px;
-    height: 80px;
+body{
+    margin: 0;
+    padding: 0;
 }
 .header{
     background-color: #ccc;
 }
 .sidebar{
+    margin-top:10px ;
     background-color: #ddd;
     float: left;
     width: 150px;
+    height: 320px;
 }
 .main{
+    margin-top:10px ;
     background-color: #eee;
     height: 300px;
     margin-left:170px ;
+    text-align: justify;
+    padding: 10px;
+    overflow: auto;
 }
 .footer{
+    margin-top:10px ;
     background-color: #ccc;
 }
 
