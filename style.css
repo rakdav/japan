@@ -1,68 +1,23 @@
-/*a:link{*/
-/*    color: blue;*/
-/*    text-decoration: none;*/
-/*}*/
-/*a:visited{*/
-/*    color: pink;*/
-/*    text-decoration: none;*/
-/*}*/
-/*a:hover{*/
-/*    color: red;*/
-/*    text-decoration: underline;*/
-/*}*/
-/*a:active{*/
-/*    color: yellow;*/
-/*    text-decoration: underline;*/
-/*}*/
-/*input:hover{*/
-/*    border: 2px solid red;*/
-/*}*/
-
-/*a:only-child{*/
-/*    color: red;*/
-/*}*/
-/*span:only-of-type{*/
-/*    color: green;*/
-/*}*/
-/*p:only-of-type{*/
-/*    color: red;*/
-/*}*/
-/*div:only-of-type{*/
-/*    color: blue;*/
-/*}*/
-tr:nth-child(odd){
-    background-color: #bbb;
-}
-tr:nth-child(even){
-    background-color: #fff;
-}
-tr:nth-child(3n+2){
-    background-color: red;
-}
-tr:nth-last-child(1){
-    background-color:yellow;
-}
-tr:nth-of-type(2)
-{
-    background-color: aqua;
-}
-::first-letter{
-    color: red;
-    font-size: 25px;
-}
-::first-line{
+div{
+    margin: 10px;
+    border: 1px solid black;
     font-size: 20px;
+    height: 80px;
 }
-.warning::before{
-    content: "Important! ";
-    font-weight: bold;
+.header{
+    background-color: #ccc;
+}
+.sidebar{
+    background-color: #ddd;
+    float: left;
+    width: 150px;
+}
+.main{
+    background-color: #eee;
+    height: 300px;
+    margin-left:170px ;
+}
+.footer{
+    background-color: #ccc;
 }
 
-.warning::after{
-    content: "Warn ";
-    font-weight: bold;
-}
-::selection{
-    color: white;
-    background-color: blue;
-}
